@@ -1,8 +1,8 @@
-#Cryptocurrency Clustering and Analysis
-##Overview
+# Cryptocurrency Clustering and Analysis
+## Overview
 This project aims to analyze and cluster cryptocurrencies using K-Means clustering based on their price change percentages over 24 hours and 7 days. The analysis utilizes both original scaled data and data transformed through Principal Component Analysis (PCA) to determine optimal clustering and visualize the results effectively.
 
-##Table of Contents
+## Table of Contents
 Features
 Data
 Requirements
@@ -18,7 +18,7 @@ Interactive Visuals: Uses hvPlot for interactive scatter plots that represent cl
 Data
 The dataset for this project is sourced from a CSV file containing cryptocurrency market data. It includes various features, with a focus on price change percentages over specified time intervals.
 
-##Requirements
+## Requirements
 To run this project, you will need:
 
 Python 3.x
